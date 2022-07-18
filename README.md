@@ -35,4 +35,4 @@ Erreichbar unter http://localhost:5000
 | 2       | geringe Gefahr       | ![#d9f8c4](https://via.placeholder.com/15/d9f8c4/d9f8c4.png) `#d9f8c4` |
 | 3       | mittlere Gefahr      | ![#f9f9c5](https://via.placeholder.com/15/f9f9c5/f9f9c5.png) `#f9f9c5` |
 | 4       | hohe Gefahr          | ![#fad9a1](https://via.placeholder.com/15/fad9a1/fad9a1.png) `#fad9a1` |
-| 5       | sehr ohe Gefahr      | ![#f37878](https://via.placeholder.com/15/f37878/f37878.png) `#fad9a1` |
+| 5       | sehr hohe Gefahr     | ![#f37878](https://via.placeholder.com/15/f37878/f37878.png) `#fad9a1` |
