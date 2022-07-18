@@ -46,7 +46,7 @@
 <Router primary={false}>
 	<header>
 		<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-			<Link to="/" class="logo">Brandgefahr-Index</Link>
+			<Link to="/" class="logo"><img src="favicon.png" alt="logo" /> Brandgefahr-Index</Link>
 			<div class="collapse navbar-collapse" id="navbarCollapse">
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item active">
@@ -128,6 +128,11 @@
 
 	:global(header) {
 		margin-bottom: 4rem;
+	}
+
+	img{
+		height: 2rem;
+		width: 2rem;
 	}
 
 
