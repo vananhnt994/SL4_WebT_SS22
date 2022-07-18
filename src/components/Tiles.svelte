@@ -39,23 +39,23 @@
     }
 
     .verylow {
-        background: rgb(184, 226, 155);
+        background: #b8e29b;
     }
 
     .low {
-        background: rgb(217, 248, 196);
+        background: #d9f8c4;
     }
 
     .middle {
-        background: rgb(249, 249, 197);
+        background: #f9f9c5;
     }
 
     .high {
-        background: rgb(250, 217, 161);
+        background: #fad9a1;
     }
 
     .veryhigh {
-        background: rgb(243, 120, 120);
+        background: #f37878;
     }
 
     .p-3 div {

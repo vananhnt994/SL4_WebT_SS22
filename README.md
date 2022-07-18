@@ -27,3 +27,12 @@ npm install
 npm run dev
 ```
 Erreichbar unter http://localhost:5000
+
+### Sonstiges
+| Index  | Bedeutung | Farbcode |
+| ------------- | ------------- | ------------- |
+| 1  | sehr geringe Gefahr  | #b8e29b |
+| 2  | geringe Gefahr   |     #d9f8c4          |
+| 3  | mittlere Gefahr  |      #f9f9c5         |
+| 4  | hohe Gefahr  |          #fad9a1     |
+| 5  | sehr ohe Gefahr  |      #f37878         |
