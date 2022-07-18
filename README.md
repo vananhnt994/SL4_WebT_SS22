@@ -31,7 +31,7 @@ Erreichbar unter http://localhost:5000
 ### Sonstiges
 | Index   | Bedeutung            | Farbcode                                                               |
 | --------| -------------------- | ---------------------------------------------------------------------- |
-| 1       | sehr geringe Gefahr  | ![#d9f8c4](https://via.placeholder.com/15/d9f8c4/d9f8c4.png) `#d9f8c4` |
+| 1       | sehr geringe Gefahr  | ![#b8e29b](https://via.placeholder.com/15/b8e29b/b8e29b.png) `#b8e29b` |
 | 2       | geringe Gefahr       | ![#d9f8c4](https://via.placeholder.com/15/d9f8c4/d9f8c4.png) `#d9f8c4` |
 | 3       | mittlere Gefahr      | ![#f9f9c5](https://via.placeholder.com/15/f9f9c5/f9f9c5.png) `#f9f9c5` |
 | 4       | hohe Gefahr          | ![#fad9a1](https://via.placeholder.com/15/fad9a1/fad9a1.png) `#fad9a1` |
